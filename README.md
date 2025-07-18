@@ -1,7 +1,7 @@
 # Sigma-Web-Development-Course-CWH
 # 📘 Sigma Web Development Course – CodeWithHarry
 
-> 💻 All source code, projects, and practice exercises from [CodeWithHarry's Sigma Web Development Course](https://www.codewithharry.com/videos/web-development/), compiled for personal mastery and public reference.
+> 💻 All source code, projects, and practice exercises from [CodeWithHarry's Sigma Web Development Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course), compiled for personal mastery and public reference.
 
 ---
 
